@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Articulated Dragon",
+    "description": "A detailed dragon model with movable joints and wings that print fully assembled.",
+    "likes": 1847,
+    "image": "/models/articulated-dragon.png",
+    "category": "toys-games",
+    "dateAdded": "2023-03-15T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Succulent Planter",
+    "description": "Geometric planter with drainage tray, perfect for small succulents and herbs.",
+    "likes": 456,
+    "image": "/models/succulent-planter.png",
+    "category": "household",
+    "dateAdded": "2023-06-22T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Cosplay Helmet",
+    "description": "Sci-fi inspired helmet for costume making, sized for a 24 inch head.",
+    "likes": 1253,
+    "image": "/models/cosplay-helmet.png",
+    "category": "props-cosplay",
+    "dateAdded": "2023-07-10T11:20:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Mini Robot",
+    "description": "A cute miniature robot with movable arms and legs and snap-fit joints.",
+    "likes": 892,
+    "image": "/models/mini-robot.png",
+    "category": "toys-games",
+    "dateAdded": "2023-08-05T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Phone Stand",
+    "description": "Adjustable phone stand for desks and tables with a cable routing channel.",
+    "likes": 634,
+    "image": "/models/phone-stand.png",
+    "category": "household",
+    "dateAdded": "2023-09-12T08:45:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Gear",
+    "description": "Functional herringbone gear design for mechanical projects and repairs.",
+    "likes": 723,
+    "image": "/models/mechanical-gear.png",
+    "category": "engineering",
+    "dateAdded": "2023-10-18T13:30:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Crystal Dragon",
+    "description": "Decorative fantasy dragon with crystal-inspired details and a display base.",
+    "likes": 2105,
+    "image": "/models/crystal-dragon.png",
+    "category": "toys-games",
+    "dateAdded": "2023-11-20T16:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Desk Organizer",
+    "description": "Multi-compartment organizer for stationery, cables and small accessories.",
+    "likes": 512,
+    "image": "/models/desk-organizer.png",
+    "category": "household",
+    "dateAdded": "2024-01-08T09:30:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Astronaut Figure",
+    "description": "Detailed astronaut miniature for space enthusiasts and display shelves.",
+    "likes": 1678,
+    "image": "/models/astronaut-figure.png",
+    "category": "collectibles",
+    "dateAdded": "2024-02-14T12:15:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Chess Set",
+    "description": "A complete modern chess set with detailed pieces and a folding board.",
+    "likes": 945,
+    "image": "/models/chess-set.png",
+    "category": "toys-games",
+    "dateAdded": "2024-03-25T15:45:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Low-Poly Fox",
+    "description": "Stylized low-poly fox sculpture that prints beautifully without supports.",
+    "likes": 1382,
+    "image": "/models/low-poly-fox.png",
+    "category": "art",
+    "dateAdded": "2024-04-11T10:10:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Filament Spool Holder",
+    "description": "Wall-mounted spool holder with smooth bearings for consistent feeding.",
+    "likes": 811,
+    "image": "/models/filament-spool-holder.png",
+    "category": "3d-printer",
+    "dateAdded": "2024-05-02T08:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Castle Tower",
+    "description": "Modular tabletop castle tower designed for 28mm miniature wargaming.",
+    "likes": 1094,
+    "image": "/models/castle-tower.png",
+    "category": "miniatures",
+    "dateAdded": "2024-05-19T18:25:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Printable Pliers",
+    "description": "Functional print-in-place pliers, great for light craft and workshop tasks.",
+    "likes": 588,
+    "image": "/models/printable-pliers.png",
+    "category": "tools",
+    "dateAdded": "2024-06-07T11:40:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Solar System Kit",
+    "description": "Educational planet set with proportional sizes and snap-fit stands.",
+    "likes": 1327,
+    "image": "/models/solar-system-kit.png",
+    "category": "education",
+    "dateAdded": "2024-06-28T09:05:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Flexible Bracelet",
+    "description": "Wearable flexible bracelet with a woven texture and adjustable clasp.",
+    "likes": 401,
+    "image": "/models/flexible-bracelet.png",
+    "category": "fashion",
+    "dateAdded": "2024-07-12T13:50:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Modular Tool Grid",
+    "description": "Stackable tool grid system for organizing a workshop drawer or pegboard.",
+    "likes": 967,
+    "image": "/models/modular-tool-grid.png",
+    "category": "hobby-diy",
+    "dateAdded": "2024-08-03T16:30:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Cyberpunk Visor",
+    "description": "Wearable cyberpunk visor with room for LED strips and tinted lenses.",
+    "likes": 1511,
+    "image": "/models/cyberpunk-visor.png",
+    "category": "props-cosplay",
+    "dateAdded": "2024-08-21T12:20:00Z"
+  }
+]
