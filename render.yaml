@@ -3,11 +3,9 @@ services:
     name: printforge
     runtime: node
     plan: free
-    buildCommand: npm ci && npm run build
+    buildCommand: npm ci --include=dev && npm run build
     startCommand: npm start -- -p $PORT
     autoDeploy: true
     envVars:
       - key: NODE_VERSION
         value: "22.11.0"
-      - key: NODE_ENV
-        value: production
